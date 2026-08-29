@@ -1,0 +1,31 @@
+project_id = "pviwuukpliqxinziolag"
+
+[functions.send-otp]
+verify_jwt = false
+
+[functions.send-auth-email]
+verify_jwt = false
+
+[functions.send-tenant-email]
+verify_jwt = false
+
+[functions.send-tenant-to-pm-email]
+verify_jwt = false
+
+[functions.create-tenant-user]
+verify_jwt = false
+
+[functions.notify-maintenance]
+verify_jwt = false
+
+[functions.notify-maintenance-update]
+verify_jwt = false
+
+[functions.r2-upload]
+verify_jwt = false
+
+[functions.r2-download]
+verify_jwt = false
+
+[functions.analyze-portfolio]
+verify_jwt = false
